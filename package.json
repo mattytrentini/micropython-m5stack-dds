@@ -1,0 +1,7 @@
+{
+  "urls": [
+    ["dds.py", "github:mattytrentini/micropython-m5stack-dds/src/dds.py"]
+  ],
+  "version": "1.0.0",
+  "deps": []
+}
